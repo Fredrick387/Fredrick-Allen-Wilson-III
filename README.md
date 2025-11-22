@@ -1,4 +1,4 @@
-# Hi, I'm [Fredrick]([https://www.linkedin.com/in/mfrancis415](https://www.linkedin.com/in/fredrick-wilson-40165429a/) 👋🏽  
+# Hi, I'm [Fredrick](https://www.linkedin.com/in/fredrick-wilson-40165429a/) 👋
 🎓 B.S. in Management Information Systems <br/>
 📚 CompTIA Cybersecurity Analyst (CySA+), Splunk Core Certitified User <br/>
 🛡️ Security Policies | Vulnerability Assessment | Risk Management | Cybercrime Awareness | Compliance<br/>
